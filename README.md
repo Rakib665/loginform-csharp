@@ -34,7 +34,7 @@ Requires *Visual Studio 2017 or higher* to run the application.
 
 [Coming Soon]
 
-## Authors
+## Author
 
 Name 	: Rakib Islam 
 Email	: rakibislam1412@gmail.com
